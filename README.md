@@ -21,7 +21,5 @@ I'm a software developer and neuroscientist who enjoys working on complex interd
   <img src="https://github-readme-stats.vercel.app/api?username=rofinn&show=reviews,prs_merged_percentage&hide=contribs&include_all_commits=true" alt="GitHub Activity">
 </div>
 
----
-
 
 
